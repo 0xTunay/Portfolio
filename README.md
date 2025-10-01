@@ -4,7 +4,9 @@
 
 | Название проекта | Описание | Технологии | Скриншот / Ссылка |
 |-----------------|----------|------------|-----------------|
-| **CSV → JSON Converter** | Конвертер файлов CSV в JSON с поддержкой вложенных структур | C, Linux | ![Converter](https://via.placeholder.com/150) [GitHub](https://github.com/0xTunay/csv-json-converter) |
+| **CSV → JSON Converter** | Конвертер файлов CSV в JSON с поддержкой вложенных структур | C++, Linux | [GitHub](https://github.com/0xTunay/csv-json-converter) |
+| **Cross-platform Program Repository** | кроссплатформенный пакетный менеджер  | C, EJS, Linux | [GitHub](https://github.com/0xTunay/CPR) |
+
 
 
 
