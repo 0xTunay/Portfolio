@@ -4,7 +4,7 @@
 
 | Название проекта | Описание | Технологии | Ссылка |
 |-----------------|----------|------------|-----------------|
-| **CSV → JSON Converter** | Конвертер файлов CSV в JSON с поддержкой вложенных структур | C++, Linux | [GitHub](https://github.com/0xTunay/csv-json-converter) |
+| **CSV → JSON Converter** | Конвертер файлов CSV в JSON с поддержкой вложенных структур | C++, Linux | [GitHub](https://github.com/0xTunay/parser-csv-to-json) |
 | **Cross-platform Program Repository** | кроссплатформенный пакетный менеджер  | C, EJS, Linux | [GitHub](https://github.com/0xTunay/CPR) |
 | **UART-ECHO-FREERTOS** | uart echo server для обработки прерываний   | C, ESP-IDF, FreeRTOS, Linux | [GitHub](https://github.com/0xTunay/uart-echo-freertos) |
 | **KomaruVPN** | Написание bash скрипта для автоматического создание новых пиров и автоматической выдачи конфигов новым пользователям в телеграм бот  | Bash, Linux | [GitLab](https://gitlab.com/0xTunay/bash-script-demo#)
